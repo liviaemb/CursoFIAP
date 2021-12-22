@@ -1,0 +1,17 @@
+C:\FIAP\exemploComboBox\exemploComboBox\bin\Debug\net6.0-windows\exemploComboBox.exe
+C:\FIAP\exemploComboBox\exemploComboBox\bin\Debug\net6.0-windows\exemploComboBox.deps.json
+C:\FIAP\exemploComboBox\exemploComboBox\bin\Debug\net6.0-windows\exemploComboBox.runtimeconfig.json
+C:\FIAP\exemploComboBox\exemploComboBox\bin\Debug\net6.0-windows\exemploComboBox.dll
+C:\FIAP\exemploComboBox\exemploComboBox\bin\Debug\net6.0-windows\ref\exemploComboBox.dll
+C:\FIAP\exemploComboBox\exemploComboBox\bin\Debug\net6.0-windows\exemploComboBox.pdb
+C:\FIAP\exemploComboBox\exemploComboBox\obj\Debug\net6.0-windows\exemploComboBox.csproj.AssemblyReference.cache
+C:\FIAP\exemploComboBox\exemploComboBox\obj\Debug\net6.0-windows\exemploComboBox.Form1.resources
+C:\FIAP\exemploComboBox\exemploComboBox\obj\Debug\net6.0-windows\exemploComboBox.csproj.GenerateResource.cache
+C:\FIAP\exemploComboBox\exemploComboBox\obj\Debug\net6.0-windows\exemploComboBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\FIAP\exemploComboBox\exemploComboBox\obj\Debug\net6.0-windows\exemploComboBox.AssemblyInfoInputs.cache
+C:\FIAP\exemploComboBox\exemploComboBox\obj\Debug\net6.0-windows\exemploComboBox.AssemblyInfo.cs
+C:\FIAP\exemploComboBox\exemploComboBox\obj\Debug\net6.0-windows\exemploComboBox.csproj.CoreCompileInputs.cache
+C:\FIAP\exemploComboBox\exemploComboBox\obj\Debug\net6.0-windows\exemploComboBox.dll
+C:\FIAP\exemploComboBox\exemploComboBox\obj\Debug\net6.0-windows\ref\exemploComboBox.dll
+C:\FIAP\exemploComboBox\exemploComboBox\obj\Debug\net6.0-windows\exemploComboBox.pdb
+C:\FIAP\exemploComboBox\exemploComboBox\obj\Debug\net6.0-windows\exemploComboBox.genruntimeconfig.cache

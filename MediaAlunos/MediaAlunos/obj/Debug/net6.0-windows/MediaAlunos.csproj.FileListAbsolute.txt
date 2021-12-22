@@ -1,0 +1,17 @@
+C:\FIAP\MediaAlunos\MediaAlunos\bin\Debug\net6.0-windows\MediaAlunos.exe
+C:\FIAP\MediaAlunos\MediaAlunos\bin\Debug\net6.0-windows\MediaAlunos.deps.json
+C:\FIAP\MediaAlunos\MediaAlunos\bin\Debug\net6.0-windows\MediaAlunos.runtimeconfig.json
+C:\FIAP\MediaAlunos\MediaAlunos\bin\Debug\net6.0-windows\MediaAlunos.dll
+C:\FIAP\MediaAlunos\MediaAlunos\bin\Debug\net6.0-windows\ref\MediaAlunos.dll
+C:\FIAP\MediaAlunos\MediaAlunos\bin\Debug\net6.0-windows\MediaAlunos.pdb
+C:\FIAP\MediaAlunos\MediaAlunos\obj\Debug\net6.0-windows\MediaAlunos.Form1.resources
+C:\FIAP\MediaAlunos\MediaAlunos\obj\Debug\net6.0-windows\MediaAlunos.csproj.GenerateResource.cache
+C:\FIAP\MediaAlunos\MediaAlunos\obj\Debug\net6.0-windows\MediaAlunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\FIAP\MediaAlunos\MediaAlunos\obj\Debug\net6.0-windows\MediaAlunos.AssemblyInfoInputs.cache
+C:\FIAP\MediaAlunos\MediaAlunos\obj\Debug\net6.0-windows\MediaAlunos.AssemblyInfo.cs
+C:\FIAP\MediaAlunos\MediaAlunos\obj\Debug\net6.0-windows\MediaAlunos.csproj.CoreCompileInputs.cache
+C:\FIAP\MediaAlunos\MediaAlunos\obj\Debug\net6.0-windows\MediaAlunos.dll
+C:\FIAP\MediaAlunos\MediaAlunos\obj\Debug\net6.0-windows\ref\MediaAlunos.dll
+C:\FIAP\MediaAlunos\MediaAlunos\obj\Debug\net6.0-windows\MediaAlunos.pdb
+C:\FIAP\MediaAlunos\MediaAlunos\obj\Debug\net6.0-windows\MediaAlunos.genruntimeconfig.cache
+C:\FIAP\MediaAlunos\MediaAlunos\obj\Debug\net6.0-windows\MediaAlunos.csproj.AssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\FIAP\matrizSoma\matrizSoma\bin\Debug\matrizSoma.exe.config
+C:\FIAP\matrizSoma\matrizSoma\bin\Debug\matrizSoma.exe
+C:\FIAP\matrizSoma\matrizSoma\bin\Debug\matrizSoma.pdb
+C:\FIAP\matrizSoma\matrizSoma\obj\Debug\matrizSoma.csproj.AssemblyReference.cache
+C:\FIAP\matrizSoma\matrizSoma\obj\Debug\matrizSoma.csproj.SuggestedBindingRedirects.cache
+C:\FIAP\matrizSoma\matrizSoma\obj\Debug\matrizSoma.Form1.resources
+C:\FIAP\matrizSoma\matrizSoma\obj\Debug\matrizSoma.Properties.Resources.resources
+C:\FIAP\matrizSoma\matrizSoma\obj\Debug\matrizSoma.csproj.GenerateResource.cache
+C:\FIAP\matrizSoma\matrizSoma\obj\Debug\matrizSoma.csproj.CoreCompileInputs.cache
+C:\FIAP\matrizSoma\matrizSoma\obj\Debug\matrizSoma.exe
+C:\FIAP\matrizSoma\matrizSoma\obj\Debug\matrizSoma.pdb

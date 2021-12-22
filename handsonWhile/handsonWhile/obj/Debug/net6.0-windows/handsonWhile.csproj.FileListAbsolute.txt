@@ -1,0 +1,17 @@
+C:\FIAP\handsonWhile\handsonWhile\bin\Debug\net6.0-windows\handsonWhile.exe
+C:\FIAP\handsonWhile\handsonWhile\bin\Debug\net6.0-windows\handsonWhile.deps.json
+C:\FIAP\handsonWhile\handsonWhile\bin\Debug\net6.0-windows\handsonWhile.runtimeconfig.json
+C:\FIAP\handsonWhile\handsonWhile\bin\Debug\net6.0-windows\handsonWhile.dll
+C:\FIAP\handsonWhile\handsonWhile\bin\Debug\net6.0-windows\ref\handsonWhile.dll
+C:\FIAP\handsonWhile\handsonWhile\bin\Debug\net6.0-windows\handsonWhile.pdb
+C:\FIAP\handsonWhile\handsonWhile\obj\Debug\net6.0-windows\handsonWhile.csproj.AssemblyReference.cache
+C:\FIAP\handsonWhile\handsonWhile\obj\Debug\net6.0-windows\handsonWhile.Form1.resources
+C:\FIAP\handsonWhile\handsonWhile\obj\Debug\net6.0-windows\handsonWhile.csproj.GenerateResource.cache
+C:\FIAP\handsonWhile\handsonWhile\obj\Debug\net6.0-windows\handsonWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\FIAP\handsonWhile\handsonWhile\obj\Debug\net6.0-windows\handsonWhile.AssemblyInfoInputs.cache
+C:\FIAP\handsonWhile\handsonWhile\obj\Debug\net6.0-windows\handsonWhile.AssemblyInfo.cs
+C:\FIAP\handsonWhile\handsonWhile\obj\Debug\net6.0-windows\handsonWhile.csproj.CoreCompileInputs.cache
+C:\FIAP\handsonWhile\handsonWhile\obj\Debug\net6.0-windows\handsonWhile.dll
+C:\FIAP\handsonWhile\handsonWhile\obj\Debug\net6.0-windows\ref\handsonWhile.dll
+C:\FIAP\handsonWhile\handsonWhile\obj\Debug\net6.0-windows\handsonWhile.pdb
+C:\FIAP\handsonWhile\handsonWhile\obj\Debug\net6.0-windows\handsonWhile.genruntimeconfig.cache

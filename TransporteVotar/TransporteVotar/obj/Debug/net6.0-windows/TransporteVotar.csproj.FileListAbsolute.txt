@@ -1,0 +1,16 @@
+C:\FIAP\TransporteVotar\TransporteVotar\obj\Debug\net6.0-windows\TransporteVotar.Form1.resources
+C:\FIAP\TransporteVotar\TransporteVotar\obj\Debug\net6.0-windows\TransporteVotar.csproj.GenerateResource.cache
+C:\FIAP\TransporteVotar\TransporteVotar\obj\Debug\net6.0-windows\TransporteVotar.GeneratedMSBuildEditorConfig.editorconfig
+C:\FIAP\TransporteVotar\TransporteVotar\obj\Debug\net6.0-windows\TransporteVotar.AssemblyInfoInputs.cache
+C:\FIAP\TransporteVotar\TransporteVotar\obj\Debug\net6.0-windows\TransporteVotar.AssemblyInfo.cs
+C:\FIAP\TransporteVotar\TransporteVotar\obj\Debug\net6.0-windows\TransporteVotar.csproj.CoreCompileInputs.cache
+C:\FIAP\TransporteVotar\TransporteVotar\bin\Debug\net6.0-windows\TransporteVotar.exe
+C:\FIAP\TransporteVotar\TransporteVotar\bin\Debug\net6.0-windows\TransporteVotar.deps.json
+C:\FIAP\TransporteVotar\TransporteVotar\bin\Debug\net6.0-windows\TransporteVotar.runtimeconfig.json
+C:\FIAP\TransporteVotar\TransporteVotar\bin\Debug\net6.0-windows\TransporteVotar.dll
+C:\FIAP\TransporteVotar\TransporteVotar\bin\Debug\net6.0-windows\ref\TransporteVotar.dll
+C:\FIAP\TransporteVotar\TransporteVotar\bin\Debug\net6.0-windows\TransporteVotar.pdb
+C:\FIAP\TransporteVotar\TransporteVotar\obj\Debug\net6.0-windows\TransporteVotar.dll
+C:\FIAP\TransporteVotar\TransporteVotar\obj\Debug\net6.0-windows\ref\TransporteVotar.dll
+C:\FIAP\TransporteVotar\TransporteVotar\obj\Debug\net6.0-windows\TransporteVotar.pdb
+C:\FIAP\TransporteVotar\TransporteVotar\obj\Debug\net6.0-windows\TransporteVotar.genruntimeconfig.cache

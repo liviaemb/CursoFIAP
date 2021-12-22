@@ -1,0 +1,11 @@
+C:\FIAP\vetorMediaAlunos\vetorMediaAlunos\bin\Debug\vetorMediaAlunos.exe.config
+C:\FIAP\vetorMediaAlunos\vetorMediaAlunos\bin\Debug\vetorMediaAlunos.exe
+C:\FIAP\vetorMediaAlunos\vetorMediaAlunos\bin\Debug\vetorMediaAlunos.pdb
+C:\FIAP\vetorMediaAlunos\vetorMediaAlunos\obj\Debug\vetorMediaAlunos.csproj.AssemblyReference.cache
+C:\FIAP\vetorMediaAlunos\vetorMediaAlunos\obj\Debug\vetorMediaAlunos.csproj.SuggestedBindingRedirects.cache
+C:\FIAP\vetorMediaAlunos\vetorMediaAlunos\obj\Debug\vetorMediaAlunos.Form1.resources
+C:\FIAP\vetorMediaAlunos\vetorMediaAlunos\obj\Debug\vetorMediaAlunos.Properties.Resources.resources
+C:\FIAP\vetorMediaAlunos\vetorMediaAlunos\obj\Debug\vetorMediaAlunos.csproj.GenerateResource.cache
+C:\FIAP\vetorMediaAlunos\vetorMediaAlunos\obj\Debug\vetorMediaAlunos.csproj.CoreCompileInputs.cache
+C:\FIAP\vetorMediaAlunos\vetorMediaAlunos\obj\Debug\vetorMediaAlunos.exe
+C:\FIAP\vetorMediaAlunos\vetorMediaAlunos\obj\Debug\vetorMediaAlunos.pdb

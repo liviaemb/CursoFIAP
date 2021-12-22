@@ -1,0 +1,8 @@
+C:\FIAP\pooMensagem\pooMensagem\bin\Debug\pooMensagem.exe.config
+C:\FIAP\pooMensagem\pooMensagem\bin\Debug\pooMensagem.exe
+C:\FIAP\pooMensagem\pooMensagem\bin\Debug\pooMensagem.pdb
+C:\FIAP\pooMensagem\pooMensagem\obj\Debug\pooMensagem.csproj.AssemblyReference.cache
+C:\FIAP\pooMensagem\pooMensagem\obj\Debug\pooMensagem.csproj.SuggestedBindingRedirects.cache
+C:\FIAP\pooMensagem\pooMensagem\obj\Debug\pooMensagem.csproj.CoreCompileInputs.cache
+C:\FIAP\pooMensagem\pooMensagem\obj\Debug\pooMensagem.exe
+C:\FIAP\pooMensagem\pooMensagem\obj\Debug\pooMensagem.pdb

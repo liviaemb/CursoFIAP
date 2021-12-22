@@ -1,0 +1,11 @@
+C:\FIAP\aulaVetores2\aulaVetores2\bin\Debug\aulaVetores2.exe.config
+C:\FIAP\aulaVetores2\aulaVetores2\bin\Debug\aulaVetores2.exe
+C:\FIAP\aulaVetores2\aulaVetores2\bin\Debug\aulaVetores2.pdb
+C:\FIAP\aulaVetores2\aulaVetores2\obj\Debug\aulaVetores2.csproj.AssemblyReference.cache
+C:\FIAP\aulaVetores2\aulaVetores2\obj\Debug\aulaVetores2.csproj.SuggestedBindingRedirects.cache
+C:\FIAP\aulaVetores2\aulaVetores2\obj\Debug\aulaVetores2.Form1.resources
+C:\FIAP\aulaVetores2\aulaVetores2\obj\Debug\aulaVetores2.Properties.Resources.resources
+C:\FIAP\aulaVetores2\aulaVetores2\obj\Debug\aulaVetores2.csproj.GenerateResource.cache
+C:\FIAP\aulaVetores2\aulaVetores2\obj\Debug\aulaVetores2.csproj.CoreCompileInputs.cache
+C:\FIAP\aulaVetores2\aulaVetores2\obj\Debug\aulaVetores2.exe
+C:\FIAP\aulaVetores2\aulaVetores2\obj\Debug\aulaVetores2.pdb

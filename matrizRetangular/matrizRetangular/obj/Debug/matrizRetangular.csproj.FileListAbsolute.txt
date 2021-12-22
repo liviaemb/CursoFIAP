@@ -1,0 +1,11 @@
+C:\FIAP\matrizRetangular\matrizRetangular\bin\Debug\matrizRetangular.exe.config
+C:\FIAP\matrizRetangular\matrizRetangular\bin\Debug\matrizRetangular.exe
+C:\FIAP\matrizRetangular\matrizRetangular\bin\Debug\matrizRetangular.pdb
+C:\FIAP\matrizRetangular\matrizRetangular\obj\Debug\matrizRetangular.csproj.AssemblyReference.cache
+C:\FIAP\matrizRetangular\matrizRetangular\obj\Debug\matrizRetangular.csproj.SuggestedBindingRedirects.cache
+C:\FIAP\matrizRetangular\matrizRetangular\obj\Debug\matrizRetangular.Form1.resources
+C:\FIAP\matrizRetangular\matrizRetangular\obj\Debug\matrizRetangular.Properties.Resources.resources
+C:\FIAP\matrizRetangular\matrizRetangular\obj\Debug\matrizRetangular.csproj.GenerateResource.cache
+C:\FIAP\matrizRetangular\matrizRetangular\obj\Debug\matrizRetangular.csproj.CoreCompileInputs.cache
+C:\FIAP\matrizRetangular\matrizRetangular\obj\Debug\matrizRetangular.exe
+C:\FIAP\matrizRetangular\matrizRetangular\obj\Debug\matrizRetangular.pdb

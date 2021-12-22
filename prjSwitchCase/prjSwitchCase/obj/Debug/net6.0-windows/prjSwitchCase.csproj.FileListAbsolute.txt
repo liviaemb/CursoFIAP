@@ -1,0 +1,17 @@
+C:\FIAP\prjSwitchCase\prjSwitchCase\bin\Debug\net6.0-windows\prjSwitchCase.exe
+C:\FIAP\prjSwitchCase\prjSwitchCase\bin\Debug\net6.0-windows\prjSwitchCase.deps.json
+C:\FIAP\prjSwitchCase\prjSwitchCase\bin\Debug\net6.0-windows\prjSwitchCase.runtimeconfig.json
+C:\FIAP\prjSwitchCase\prjSwitchCase\bin\Debug\net6.0-windows\prjSwitchCase.dll
+C:\FIAP\prjSwitchCase\prjSwitchCase\bin\Debug\net6.0-windows\ref\prjSwitchCase.dll
+C:\FIAP\prjSwitchCase\prjSwitchCase\bin\Debug\net6.0-windows\prjSwitchCase.pdb
+C:\FIAP\prjSwitchCase\prjSwitchCase\obj\Debug\net6.0-windows\prjSwitchCase.csproj.AssemblyReference.cache
+C:\FIAP\prjSwitchCase\prjSwitchCase\obj\Debug\net6.0-windows\prjSwitchCase.Form1.resources
+C:\FIAP\prjSwitchCase\prjSwitchCase\obj\Debug\net6.0-windows\prjSwitchCase.csproj.GenerateResource.cache
+C:\FIAP\prjSwitchCase\prjSwitchCase\obj\Debug\net6.0-windows\prjSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\FIAP\prjSwitchCase\prjSwitchCase\obj\Debug\net6.0-windows\prjSwitchCase.AssemblyInfoInputs.cache
+C:\FIAP\prjSwitchCase\prjSwitchCase\obj\Debug\net6.0-windows\prjSwitchCase.AssemblyInfo.cs
+C:\FIAP\prjSwitchCase\prjSwitchCase\obj\Debug\net6.0-windows\prjSwitchCase.csproj.CoreCompileInputs.cache
+C:\FIAP\prjSwitchCase\prjSwitchCase\obj\Debug\net6.0-windows\prjSwitchCase.dll
+C:\FIAP\prjSwitchCase\prjSwitchCase\obj\Debug\net6.0-windows\ref\prjSwitchCase.dll
+C:\FIAP\prjSwitchCase\prjSwitchCase\obj\Debug\net6.0-windows\prjSwitchCase.pdb
+C:\FIAP\prjSwitchCase\prjSwitchCase\obj\Debug\net6.0-windows\prjSwitchCase.genruntimeconfig.cache

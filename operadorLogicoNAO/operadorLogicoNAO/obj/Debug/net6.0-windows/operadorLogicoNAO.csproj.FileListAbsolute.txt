@@ -1,0 +1,17 @@
+C:\FIAP\operadorLogicoNAO\operadorLogicoNAO\bin\Debug\net6.0-windows\operadorLogicoNAO.exe
+C:\FIAP\operadorLogicoNAO\operadorLogicoNAO\bin\Debug\net6.0-windows\operadorLogicoNAO.deps.json
+C:\FIAP\operadorLogicoNAO\operadorLogicoNAO\bin\Debug\net6.0-windows\operadorLogicoNAO.runtimeconfig.json
+C:\FIAP\operadorLogicoNAO\operadorLogicoNAO\bin\Debug\net6.0-windows\operadorLogicoNAO.dll
+C:\FIAP\operadorLogicoNAO\operadorLogicoNAO\bin\Debug\net6.0-windows\ref\operadorLogicoNAO.dll
+C:\FIAP\operadorLogicoNAO\operadorLogicoNAO\bin\Debug\net6.0-windows\operadorLogicoNAO.pdb
+C:\FIAP\operadorLogicoNAO\operadorLogicoNAO\obj\Debug\net6.0-windows\operadorLogicoNAO.csproj.AssemblyReference.cache
+C:\FIAP\operadorLogicoNAO\operadorLogicoNAO\obj\Debug\net6.0-windows\operadorLogicoNAO.Form1.resources
+C:\FIAP\operadorLogicoNAO\operadorLogicoNAO\obj\Debug\net6.0-windows\operadorLogicoNAO.csproj.GenerateResource.cache
+C:\FIAP\operadorLogicoNAO\operadorLogicoNAO\obj\Debug\net6.0-windows\operadorLogicoNAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\FIAP\operadorLogicoNAO\operadorLogicoNAO\obj\Debug\net6.0-windows\operadorLogicoNAO.AssemblyInfoInputs.cache
+C:\FIAP\operadorLogicoNAO\operadorLogicoNAO\obj\Debug\net6.0-windows\operadorLogicoNAO.AssemblyInfo.cs
+C:\FIAP\operadorLogicoNAO\operadorLogicoNAO\obj\Debug\net6.0-windows\operadorLogicoNAO.csproj.CoreCompileInputs.cache
+C:\FIAP\operadorLogicoNAO\operadorLogicoNAO\obj\Debug\net6.0-windows\operadorLogicoNAO.dll
+C:\FIAP\operadorLogicoNAO\operadorLogicoNAO\obj\Debug\net6.0-windows\ref\operadorLogicoNAO.dll
+C:\FIAP\operadorLogicoNAO\operadorLogicoNAO\obj\Debug\net6.0-windows\operadorLogicoNAO.pdb
+C:\FIAP\operadorLogicoNAO\operadorLogicoNAO\obj\Debug\net6.0-windows\operadorLogicoNAO.genruntimeconfig.cache

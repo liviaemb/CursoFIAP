@@ -1,0 +1,17 @@
+C:\FIAP\IdadeMinima\IdadeMinima\bin\Debug\net6.0-windows\IdadeMinima.exe
+C:\FIAP\IdadeMinima\IdadeMinima\bin\Debug\net6.0-windows\IdadeMinima.deps.json
+C:\FIAP\IdadeMinima\IdadeMinima\bin\Debug\net6.0-windows\IdadeMinima.runtimeconfig.json
+C:\FIAP\IdadeMinima\IdadeMinima\bin\Debug\net6.0-windows\IdadeMinima.dll
+C:\FIAP\IdadeMinima\IdadeMinima\bin\Debug\net6.0-windows\ref\IdadeMinima.dll
+C:\FIAP\IdadeMinima\IdadeMinima\bin\Debug\net6.0-windows\IdadeMinima.pdb
+C:\FIAP\IdadeMinima\IdadeMinima\obj\Debug\net6.0-windows\IdadeMinima.csproj.AssemblyReference.cache
+C:\FIAP\IdadeMinima\IdadeMinima\obj\Debug\net6.0-windows\IdadeMinima.Form1.resources
+C:\FIAP\IdadeMinima\IdadeMinima\obj\Debug\net6.0-windows\IdadeMinima.csproj.GenerateResource.cache
+C:\FIAP\IdadeMinima\IdadeMinima\obj\Debug\net6.0-windows\IdadeMinima.GeneratedMSBuildEditorConfig.editorconfig
+C:\FIAP\IdadeMinima\IdadeMinima\obj\Debug\net6.0-windows\IdadeMinima.AssemblyInfoInputs.cache
+C:\FIAP\IdadeMinima\IdadeMinima\obj\Debug\net6.0-windows\IdadeMinima.AssemblyInfo.cs
+C:\FIAP\IdadeMinima\IdadeMinima\obj\Debug\net6.0-windows\IdadeMinima.csproj.CoreCompileInputs.cache
+C:\FIAP\IdadeMinima\IdadeMinima\obj\Debug\net6.0-windows\IdadeMinima.dll
+C:\FIAP\IdadeMinima\IdadeMinima\obj\Debug\net6.0-windows\ref\IdadeMinima.dll
+C:\FIAP\IdadeMinima\IdadeMinima\obj\Debug\net6.0-windows\IdadeMinima.pdb
+C:\FIAP\IdadeMinima\IdadeMinima\obj\Debug\net6.0-windows\IdadeMinima.genruntimeconfig.cache

@@ -1,0 +1,17 @@
+C:\FIAP\handsonDowhile\handsonDowhile\bin\Debug\net6.0-windows\handsonDowhile.exe
+C:\FIAP\handsonDowhile\handsonDowhile\bin\Debug\net6.0-windows\handsonDowhile.deps.json
+C:\FIAP\handsonDowhile\handsonDowhile\bin\Debug\net6.0-windows\handsonDowhile.runtimeconfig.json
+C:\FIAP\handsonDowhile\handsonDowhile\bin\Debug\net6.0-windows\handsonDowhile.dll
+C:\FIAP\handsonDowhile\handsonDowhile\bin\Debug\net6.0-windows\ref\handsonDowhile.dll
+C:\FIAP\handsonDowhile\handsonDowhile\bin\Debug\net6.0-windows\handsonDowhile.pdb
+C:\FIAP\handsonDowhile\handsonDowhile\obj\Debug\net6.0-windows\handsonDowhile.csproj.AssemblyReference.cache
+C:\FIAP\handsonDowhile\handsonDowhile\obj\Debug\net6.0-windows\handsonDowhile.Form1.resources
+C:\FIAP\handsonDowhile\handsonDowhile\obj\Debug\net6.0-windows\handsonDowhile.csproj.GenerateResource.cache
+C:\FIAP\handsonDowhile\handsonDowhile\obj\Debug\net6.0-windows\handsonDowhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\FIAP\handsonDowhile\handsonDowhile\obj\Debug\net6.0-windows\handsonDowhile.AssemblyInfoInputs.cache
+C:\FIAP\handsonDowhile\handsonDowhile\obj\Debug\net6.0-windows\handsonDowhile.AssemblyInfo.cs
+C:\FIAP\handsonDowhile\handsonDowhile\obj\Debug\net6.0-windows\handsonDowhile.csproj.CoreCompileInputs.cache
+C:\FIAP\handsonDowhile\handsonDowhile\obj\Debug\net6.0-windows\handsonDowhile.dll
+C:\FIAP\handsonDowhile\handsonDowhile\obj\Debug\net6.0-windows\ref\handsonDowhile.dll
+C:\FIAP\handsonDowhile\handsonDowhile\obj\Debug\net6.0-windows\handsonDowhile.pdb
+C:\FIAP\handsonDowhile\handsonDowhile\obj\Debug\net6.0-windows\handsonDowhile.genruntimeconfig.cache

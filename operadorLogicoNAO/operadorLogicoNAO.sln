@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "operadorLogicoNAO", "operadorLogicoNAO\operadorLogicoNAO.csproj", "{B1A4E3EB-9C1B-4543-9261-795F3F81B44F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1A4E3EB-9C1B-4543-9261-795F3F81B44F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1A4E3EB-9C1B-4543-9261-795F3F81B44F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1A4E3EB-9C1B-4543-9261-795F3F81B44F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1A4E3EB-9C1B-4543-9261-795F3F81B44F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A197F33C-3973-45F2-97E3-0D070AAAD1AD}
+	EndGlobalSection
+EndGlobal

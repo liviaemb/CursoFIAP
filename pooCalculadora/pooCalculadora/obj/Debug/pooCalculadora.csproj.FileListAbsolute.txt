@@ -1,0 +1,11 @@
+C:\FIAP\pooCalculadora\pooCalculadora\bin\Debug\pooCalculadora.exe.config
+C:\FIAP\pooCalculadora\pooCalculadora\bin\Debug\pooCalculadora.exe
+C:\FIAP\pooCalculadora\pooCalculadora\bin\Debug\pooCalculadora.pdb
+C:\FIAP\pooCalculadora\pooCalculadora\obj\Debug\pooCalculadora.csproj.AssemblyReference.cache
+C:\FIAP\pooCalculadora\pooCalculadora\obj\Debug\pooCalculadora.csproj.SuggestedBindingRedirects.cache
+C:\FIAP\pooCalculadora\pooCalculadora\obj\Debug\pooCalculadora.Form1.resources
+C:\FIAP\pooCalculadora\pooCalculadora\obj\Debug\pooCalculadora.Properties.Resources.resources
+C:\FIAP\pooCalculadora\pooCalculadora\obj\Debug\pooCalculadora.csproj.GenerateResource.cache
+C:\FIAP\pooCalculadora\pooCalculadora\obj\Debug\pooCalculadora.csproj.CoreCompileInputs.cache
+C:\FIAP\pooCalculadora\pooCalculadora\obj\Debug\pooCalculadora.exe
+C:\FIAP\pooCalculadora\pooCalculadora\obj\Debug\pooCalculadora.pdb

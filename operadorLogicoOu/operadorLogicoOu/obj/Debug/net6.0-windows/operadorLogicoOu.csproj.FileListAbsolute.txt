@@ -1,0 +1,17 @@
+C:\FIAP\operadorLogicoOu\operadorLogicoOu\bin\Debug\net6.0-windows\operadorLogicoOu.exe
+C:\FIAP\operadorLogicoOu\operadorLogicoOu\bin\Debug\net6.0-windows\operadorLogicoOu.deps.json
+C:\FIAP\operadorLogicoOu\operadorLogicoOu\bin\Debug\net6.0-windows\operadorLogicoOu.runtimeconfig.json
+C:\FIAP\operadorLogicoOu\operadorLogicoOu\bin\Debug\net6.0-windows\operadorLogicoOu.dll
+C:\FIAP\operadorLogicoOu\operadorLogicoOu\bin\Debug\net6.0-windows\ref\operadorLogicoOu.dll
+C:\FIAP\operadorLogicoOu\operadorLogicoOu\bin\Debug\net6.0-windows\operadorLogicoOu.pdb
+C:\FIAP\operadorLogicoOu\operadorLogicoOu\obj\Debug\net6.0-windows\operadorLogicoOu.csproj.AssemblyReference.cache
+C:\FIAP\operadorLogicoOu\operadorLogicoOu\obj\Debug\net6.0-windows\operadorLogicoOu.Form1.resources
+C:\FIAP\operadorLogicoOu\operadorLogicoOu\obj\Debug\net6.0-windows\operadorLogicoOu.csproj.GenerateResource.cache
+C:\FIAP\operadorLogicoOu\operadorLogicoOu\obj\Debug\net6.0-windows\operadorLogicoOu.GeneratedMSBuildEditorConfig.editorconfig
+C:\FIAP\operadorLogicoOu\operadorLogicoOu\obj\Debug\net6.0-windows\operadorLogicoOu.AssemblyInfoInputs.cache
+C:\FIAP\operadorLogicoOu\operadorLogicoOu\obj\Debug\net6.0-windows\operadorLogicoOu.AssemblyInfo.cs
+C:\FIAP\operadorLogicoOu\operadorLogicoOu\obj\Debug\net6.0-windows\operadorLogicoOu.csproj.CoreCompileInputs.cache
+C:\FIAP\operadorLogicoOu\operadorLogicoOu\obj\Debug\net6.0-windows\operadorLogicoOu.dll
+C:\FIAP\operadorLogicoOu\operadorLogicoOu\obj\Debug\net6.0-windows\ref\operadorLogicoOu.dll
+C:\FIAP\operadorLogicoOu\operadorLogicoOu\obj\Debug\net6.0-windows\operadorLogicoOu.pdb
+C:\FIAP\operadorLogicoOu\operadorLogicoOu\obj\Debug\net6.0-windows\operadorLogicoOu.genruntimeconfig.cache

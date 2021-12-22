@@ -1,0 +1,17 @@
+C:\FIAP\codigoMes\codigoMes\bin\Debug\net6.0-windows\codigoMes.exe
+C:\FIAP\codigoMes\codigoMes\bin\Debug\net6.0-windows\codigoMes.deps.json
+C:\FIAP\codigoMes\codigoMes\bin\Debug\net6.0-windows\codigoMes.runtimeconfig.json
+C:\FIAP\codigoMes\codigoMes\bin\Debug\net6.0-windows\codigoMes.dll
+C:\FIAP\codigoMes\codigoMes\bin\Debug\net6.0-windows\ref\codigoMes.dll
+C:\FIAP\codigoMes\codigoMes\bin\Debug\net6.0-windows\codigoMes.pdb
+C:\FIAP\codigoMes\codigoMes\obj\Debug\net6.0-windows\codigoMes.csproj.AssemblyReference.cache
+C:\FIAP\codigoMes\codigoMes\obj\Debug\net6.0-windows\codigoMes.Form1.resources
+C:\FIAP\codigoMes\codigoMes\obj\Debug\net6.0-windows\codigoMes.csproj.GenerateResource.cache
+C:\FIAP\codigoMes\codigoMes\obj\Debug\net6.0-windows\codigoMes.GeneratedMSBuildEditorConfig.editorconfig
+C:\FIAP\codigoMes\codigoMes\obj\Debug\net6.0-windows\codigoMes.AssemblyInfoInputs.cache
+C:\FIAP\codigoMes\codigoMes\obj\Debug\net6.0-windows\codigoMes.AssemblyInfo.cs
+C:\FIAP\codigoMes\codigoMes\obj\Debug\net6.0-windows\codigoMes.csproj.CoreCompileInputs.cache
+C:\FIAP\codigoMes\codigoMes\obj\Debug\net6.0-windows\codigoMes.dll
+C:\FIAP\codigoMes\codigoMes\obj\Debug\net6.0-windows\ref\codigoMes.dll
+C:\FIAP\codigoMes\codigoMes\obj\Debug\net6.0-windows\codigoMes.pdb
+C:\FIAP\codigoMes\codigoMes\obj\Debug\net6.0-windows\codigoMes.genruntimeconfig.cache

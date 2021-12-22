@@ -1,0 +1,17 @@
+C:\FIAP\Conversion\Conversion\obj\Debug\net6.0-windows\Conversion.csproj.AssemblyReference.cache
+C:\FIAP\Conversion\Conversion\obj\Debug\net6.0-windows\Conversion.Form1.resources
+C:\FIAP\Conversion\Conversion\obj\Debug\net6.0-windows\Conversion.csproj.GenerateResource.cache
+C:\FIAP\Conversion\Conversion\obj\Debug\net6.0-windows\Conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\FIAP\Conversion\Conversion\obj\Debug\net6.0-windows\Conversion.AssemblyInfoInputs.cache
+C:\FIAP\Conversion\Conversion\obj\Debug\net6.0-windows\Conversion.AssemblyInfo.cs
+C:\FIAP\Conversion\Conversion\obj\Debug\net6.0-windows\Conversion.csproj.CoreCompileInputs.cache
+C:\FIAP\Conversion\Conversion\bin\Debug\net6.0-windows\Conversion.exe
+C:\FIAP\Conversion\Conversion\bin\Debug\net6.0-windows\Conversion.deps.json
+C:\FIAP\Conversion\Conversion\bin\Debug\net6.0-windows\Conversion.runtimeconfig.json
+C:\FIAP\Conversion\Conversion\bin\Debug\net6.0-windows\Conversion.dll
+C:\FIAP\Conversion\Conversion\bin\Debug\net6.0-windows\ref\Conversion.dll
+C:\FIAP\Conversion\Conversion\bin\Debug\net6.0-windows\Conversion.pdb
+C:\FIAP\Conversion\Conversion\obj\Debug\net6.0-windows\Conversion.dll
+C:\FIAP\Conversion\Conversion\obj\Debug\net6.0-windows\ref\Conversion.dll
+C:\FIAP\Conversion\Conversion\obj\Debug\net6.0-windows\Conversion.pdb
+C:\FIAP\Conversion\Conversion\obj\Debug\net6.0-windows\Conversion.genruntimeconfig.cache

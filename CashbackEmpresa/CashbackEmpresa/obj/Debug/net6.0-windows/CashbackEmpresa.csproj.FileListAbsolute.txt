@@ -1,0 +1,17 @@
+C:\FIAP\CashbackEmpresa\CashbackEmpresa\bin\Debug\net6.0-windows\CashbackEmpresa.exe
+C:\FIAP\CashbackEmpresa\CashbackEmpresa\bin\Debug\net6.0-windows\CashbackEmpresa.deps.json
+C:\FIAP\CashbackEmpresa\CashbackEmpresa\bin\Debug\net6.0-windows\CashbackEmpresa.runtimeconfig.json
+C:\FIAP\CashbackEmpresa\CashbackEmpresa\bin\Debug\net6.0-windows\CashbackEmpresa.dll
+C:\FIAP\CashbackEmpresa\CashbackEmpresa\bin\Debug\net6.0-windows\ref\CashbackEmpresa.dll
+C:\FIAP\CashbackEmpresa\CashbackEmpresa\bin\Debug\net6.0-windows\CashbackEmpresa.pdb
+C:\FIAP\CashbackEmpresa\CashbackEmpresa\obj\Debug\net6.0-windows\CashbackEmpresa.csproj.AssemblyReference.cache
+C:\FIAP\CashbackEmpresa\CashbackEmpresa\obj\Debug\net6.0-windows\CashbackEmpresa.Form1.resources
+C:\FIAP\CashbackEmpresa\CashbackEmpresa\obj\Debug\net6.0-windows\CashbackEmpresa.csproj.GenerateResource.cache
+C:\FIAP\CashbackEmpresa\CashbackEmpresa\obj\Debug\net6.0-windows\CashbackEmpresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\FIAP\CashbackEmpresa\CashbackEmpresa\obj\Debug\net6.0-windows\CashbackEmpresa.AssemblyInfoInputs.cache
+C:\FIAP\CashbackEmpresa\CashbackEmpresa\obj\Debug\net6.0-windows\CashbackEmpresa.AssemblyInfo.cs
+C:\FIAP\CashbackEmpresa\CashbackEmpresa\obj\Debug\net6.0-windows\CashbackEmpresa.csproj.CoreCompileInputs.cache
+C:\FIAP\CashbackEmpresa\CashbackEmpresa\obj\Debug\net6.0-windows\CashbackEmpresa.dll
+C:\FIAP\CashbackEmpresa\CashbackEmpresa\obj\Debug\net6.0-windows\ref\CashbackEmpresa.dll
+C:\FIAP\CashbackEmpresa\CashbackEmpresa\obj\Debug\net6.0-windows\CashbackEmpresa.pdb
+C:\FIAP\CashbackEmpresa\CashbackEmpresa\obj\Debug\net6.0-windows\CashbackEmpresa.genruntimeconfig.cache

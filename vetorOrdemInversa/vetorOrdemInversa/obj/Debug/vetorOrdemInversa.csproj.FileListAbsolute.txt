@@ -1,0 +1,11 @@
+C:\FIAP\vetorOrdemInversa\vetorOrdemInversa\bin\Debug\vetorOrdemInversa.exe.config
+C:\FIAP\vetorOrdemInversa\vetorOrdemInversa\bin\Debug\vetorOrdemInversa.exe
+C:\FIAP\vetorOrdemInversa\vetorOrdemInversa\bin\Debug\vetorOrdemInversa.pdb
+C:\FIAP\vetorOrdemInversa\vetorOrdemInversa\obj\Debug\vetorOrdemInversa.csproj.AssemblyReference.cache
+C:\FIAP\vetorOrdemInversa\vetorOrdemInversa\obj\Debug\vetorOrdemInversa.csproj.SuggestedBindingRedirects.cache
+C:\FIAP\vetorOrdemInversa\vetorOrdemInversa\obj\Debug\vetorOrdemInversa.Form1.resources
+C:\FIAP\vetorOrdemInversa\vetorOrdemInversa\obj\Debug\vetorOrdemInversa.Properties.Resources.resources
+C:\FIAP\vetorOrdemInversa\vetorOrdemInversa\obj\Debug\vetorOrdemInversa.csproj.GenerateResource.cache
+C:\FIAP\vetorOrdemInversa\vetorOrdemInversa\obj\Debug\vetorOrdemInversa.csproj.CoreCompileInputs.cache
+C:\FIAP\vetorOrdemInversa\vetorOrdemInversa\obj\Debug\vetorOrdemInversa.exe
+C:\FIAP\vetorOrdemInversa\vetorOrdemInversa\obj\Debug\vetorOrdemInversa.pdb
